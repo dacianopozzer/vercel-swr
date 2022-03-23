@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "bolsa 1",
+      "price": 99,
+      "brand": "LOJA ABC"
+    },
+    {
+      "id": 2,
+      "name": "bolsa 2",
+      "price": 99,
+      "brand": "LOJA ABC"
+    },
+    {
+      "id": 3,
+      "name": "bolsa 3",
+      "price": 20,
+      "brand": "LOJA ABC"
+    },
+    {
+      "id": 4,
+      "name": "bolsa 4",
+      "price": 99,
+      "brand": "LOJA ABC"
+    },
+    {
+      "id": 5,
+      "name": "bolsa 5",
+      "price": 20,
+      "brand": "LOJA ABC"
+    },
+    {
+      "id": 6,
+      "name": "bolsa 6",
+      "price": 99,
+      "brand": "LOJA ABC"
+    },
+    {
+      "id": 7,
+      "name": "bolsa 8",
+      "price": 99,
+      "brand": "LOJA ABC"
+    },
+    {
+      "id": 8,
+      "name": "bolsa 8",
+      "price": 99,
+      "brand": "LOJA ABC"
+    }
+  ]
+}
